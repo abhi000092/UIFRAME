@@ -1,0 +1,19 @@
+[ {
+  "buildOrder" : 12,
+  "reportUrl" : "http://localhost:8080/job/iQuote_Local/12/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 20302
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:8080/job/iQuote_Local/11/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 20743
+  }
+}, {
+  "data" : {
+    "duration" : 1801964224
+  }
+} ]

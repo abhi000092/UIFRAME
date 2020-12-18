@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='desktop__search__select__item pointer']//label[text()='Estimated'] (tried for 10 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "Engineering Tool bar Verification",
+        "uid" : "c2c00104adbc6628",
+        "parentUid" : "3361bebd497b6d570abd9183770a21c5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1594820878658,
+          "stop" : 1594820898699,
+          "duration" : 20041
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "", "PremierPress" ]
+      } ],
+      "uid" : "3361bebd497b6d570abd9183770a21c5"
+    }, {
+      "name" : "TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='desktop__search__select__item pointer']//label[text()='Estimated'] (tried for 10 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "ProcessButton",
+        "uid" : "54999fc8dc0b7b4e",
+        "parentUid" : "a222a8b36eef65b8e1e3dbe79f96b9ec",
+        "status" : "broken",
+        "time" : {
+          "start" : 1594820878688,
+          "stop" : 1594820898960,
+          "duration" : 20272
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a222a8b36eef65b8e1e3dbe79f96b9ec"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

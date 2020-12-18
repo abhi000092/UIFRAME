@@ -1,0 +1,9 @@
+buildPathBinsCheckbox=true
+buildPathLibsCheckbox=true
+buildPathSourcesCheckbox=true
+buildPathTestCheckbox=true
+eclipse.preferences.version=1
+extraProperties=
+projectKey=IQuote\:IQuoteUIDB
+serverUrl=http\://danieljio-w10lt\:19000
+version=2

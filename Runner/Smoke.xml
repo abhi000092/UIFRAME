@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="IQuote TEST Automation ">
+	<test name="Smoke">
+		<parameter name="propertyfile" value="Smoke" />
+		<parameter name="portNO" value="" />
+		<classes>
+			<class name="com.testcases.Engineering.IQuote_10128_Engineering" />
+			<class name="com.testcases.Engineering.IQuote_10052_Engineering_70" />
+			<class name="com.testcases.negotiation.IQuote_9231_Negotiation_20" />
+			<class name="com.testcases.Engineering.IQuote_9128_Engineering" />
+			<class name="com.testcases.Engineering.IQuote_9127_Engineering_32" />
+			<class name="com.testcases.Estimate.IQuote_9094_Estimate_8" />
+			<class name="com.testcases.negotiation.IQuote_9070_Negotiation_8" />
+			<class name="com.testcases.Estimate.IQuote_9049_Estimate_1" />
+			<class name="com.testcases.Estimate.IQuote_9048_Estimate_2" />
+			<class name="com.testcases.Engineering.IQuote_9002_Engineering_25" />
+			<class name="com.testcases.Engineering.IQuote_8993_Engineering" />
+			<class name="com.testcases.Engineering.IQuote_8991_Engineering" />
+			<class name="com.testcases.Engineering.IQuote_8990_Engineering" />
+			<class name="com.testcases.Engineering.IQuote_8989_Engineering" />
+		</classes>
+	</test>
+
+
+</suite> <!-- Suite -->

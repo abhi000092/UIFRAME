@@ -1,0 +1,192 @@
+{
+  "83e5d5980ebdf2d62170719f5491a77b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7dca526ea6a6219a",
+      "status" : "broken",
+      "statusDetails" : "no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=83.0.4103.116)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'DANIELJIO-W10LT', ip: '10.210.5.247', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.116, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\danieljo\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:14602}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 2d0715fb270aea97bcd23e393f35c610\n*** Element info: {Using=xpath, value=//button[@title='OK']}",
+      "time" : {
+        "start" : 1594730196591,
+        "stop" : 1594730196591,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d228aace02910a43f8473f02f020429b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f6d9f9fb45a5f7d3",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for value to contain \"\". Current value: \"null\" (tried for 60 second(s) with 500 milliseconds interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'DANIELJIO-W10LT', ip: '10.210.4.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\danieljo\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:34690}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a7187aa184ef8e60672cde3cd17dd9ff",
+      "time" : {
+        "start" : 1592995474623,
+        "stop" : 1592995797594,
+        "duration" : 322971
+      }
+    } ]
+  },
+  "e5ee79cb125b7475af920dca1dd9847f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "203f3bc59c15c22f",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <span class=\"app__tab__close\">...</span> is not clickable at point (353, 18). Other element would receive the click: <div class=\"popup__portal popup__dialog\" style=\"z-index: 106;\">...</div>\n  (Session info: chrome=83.0.4103.106)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'DANIELJIO-W10LT', ip: '10.210.4.92', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 83.0.4103.106, chrome: {chromedriverVersion: 83.0.4103.39 (ccbf011cb2d2b..., userDataDir: C:\\Users\\danieljo\\AppData\\L...}, goog:chromeOptions: {debuggerAddress: localhost:33836}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 49535be4a1b5900f939acb251837472c",
+      "time" : {
+        "start" : 1592995387713,
+        "stop" : 1592995387713,
+        "duration" : 0
+      }
+    } ]
+  },
+  "264170f9ab01667a25f2e51f1ef97abb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c2c00104adbc6628",
+      "reportUrl" : "http://localhost:8080/job/iQuote_Local/12/allure/#testresult/c2c00104adbc6628",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='desktop__search__select__item pointer']//label[text()='Estimated'] (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1594820878658,
+        "stop" : 1594820898699,
+        "duration" : 20041
+      }
+    }, {
+      "uid" : "197d50e5d59bab34",
+      "reportUrl" : "http://localhost:8080/job/iQuote_Local/11/allure/#testresult/197d50e5d59bab34",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='desktop__search__select__item pointer']//label[text()='Estimated'] (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1594820714930,
+        "stop" : 1594820735673,
+        "duration" : 20743
+      }
+    } ]
+  },
+  "3d1874392dd132e78629e83ac628cf44" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40a4f6da44e2e453",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594733818325,
+        "stop" : 1594734614296,
+        "duration" : 795971
+      }
+    } ]
+  },
+  "36c6f399af12413d035f7124a6ae9b80" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "132628e9a6f41ff5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594796526005,
+        "stop" : 1594797351937,
+        "duration" : 825932
+      }
+    } ]
+  },
+  "64e11fcc5c55b42dd56fdc420bb07cd6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "54999fc8dc0b7b4e",
+      "reportUrl" : "http://localhost:8080/job/iQuote_Local/12/allure/#testresult/54999fc8dc0b7b4e",
+      "status" : "broken",
+      "statusDetails" : "TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='desktop__search__select__item pointer']//label[text()='Estimated'] (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1594820878688,
+        "stop" : 1594820898960,
+        "duration" : 20272
+      }
+    } ]
+  },
+  "9dc63c4b6cb4c2c215a0a8e7a154f65f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83a54e2c3a93b909",
+      "status" : "broken",
+      "statusDetails" : "java.lang.StackOverflowError",
+      "time" : {
+        "start" : 1594623763871,
+        "stop" : 1594623763879,
+        "duration" : 8
+      }
+    } ]
+  },
+  "c41fbf2fe3eab46d45d37c76eff9ed74" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6796294a07491e57",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='drop-down']//ul[@class='select '] (tried for 60 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1593082709995,
+        "stop" : 1593083028684,
+        "duration" : 318689
+      }
+    } ]
+  }
+}

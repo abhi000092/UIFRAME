@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="IQuote TEST Automation ">
+<listeners> <listener class-name="utilities.ExtentListeners"/> </listeners> 
+	<test name="Test-Core-Port-9001">
+		<parameter name="propertyfile" value="PremierPress" />
+		<parameter name="portNO" value="" />
+		<classes>
+		<class name="canbeused"/>
+		</classes>
+	</test>
+	
+
+</suite> <!-- Suite -->
